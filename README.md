@@ -1,4 +1,4 @@
-# project.one
+# Chatbot with AI
 
 -The goal is to give people an automated way to communicate 
 with your company. They may answer basic questions, make 
